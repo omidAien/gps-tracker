@@ -18,7 +18,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
       
-    this.getLocation();
+    
 
   }
 
@@ -76,5 +76,6 @@ export class AppComponent implements OnInit {
 
     }
   }
+  
 
 }
